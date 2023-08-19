@@ -1,0 +1,19 @@
+.header{
+    background-color: #263238;
+    height: 20vh;
+    align-items: center;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content:end;
+    
+}
+.header img{
+    height: 50px;
+    margin-right: 70px;
+}
+.header-item{
+    display: flex;
+    width: 55%;
+    justify-content:space-between;
+}
